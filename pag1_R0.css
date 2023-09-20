@@ -48,6 +48,10 @@ main {
     color: yellow;
 }
 
+#secao1 br {
+    display: none;
+}
+
 
 
 

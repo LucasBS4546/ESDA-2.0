@@ -30,19 +30,21 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        background: linear-gradient(320deg, #4098c4, #0082C4, #4098c4);
-        padding-inline: 4%;
+        background: none;
+        padding-inline: 0;
         padding-block: 2%;
-        border: 5px solid black;
-        border-radius: 50px;
+        border-block: 2px solid black;
+        border-inline: none;
+        border-radius: 10px;
         height: 100%;
     }
     
     #secao1 div a {
         text-decoration: none;
-        color: white;
+        color: black;
         font-weight: 600;
         font-size: 100%;
+        font-style: italic;
         text-align: center;
     }
     
@@ -50,6 +52,9 @@
         color: yellow;
     }
     
+    #secao1 br {
+        display: block;
+    }
     
     
     /*
