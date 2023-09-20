@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+main {
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+
+p {
+    font-size: 25px;
+}
+
+span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span p {
+    width: 25%;
+    font-size: 25px;
+}
+
+span input {
+    height: 30px;
+    width: 35%;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background:none;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button h2 {
+    color: #00FF00;
+    font-size: 40px;
+}
+
+button h2:hover {
+    text-decoration: underline;
+}
