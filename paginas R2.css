@@ -85,7 +85,7 @@
         align-items: center;
         justify-content: space-evenly;
         list-style: none;
-        height: 6vh;
+        height: 5vh;
         width: 100%;
     }
     
@@ -139,14 +139,14 @@
         color: #002538;
         text-align: center;
         width: 100%;
-        padding-block: 0.75%;
+        padding-block: 5%;
         display: flex;
         align-items: center;
         justify-content: center;
     }
     
     footer h3 {
-        font-size: 20px;
+        font-size: 100%;
     }
 
 

@@ -101,7 +101,7 @@
     }
     
     #secao2noticias h1{
-        margin-top: 5%;
+        margin-top: 10%;
     }
     
     /*
@@ -109,6 +109,7 @@
     */
     #secao3 {
         width: 100%;
+        margin-bottom: 25%;
     }
     #secao3 div {
         border: 2px solid black;
