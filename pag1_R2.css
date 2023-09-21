@@ -1,4 +1,4 @@
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
 
     main {
         display: flex;
@@ -49,7 +49,7 @@
     }
     
     #secao1 div a:hover {
-        color: yellow;
+        color: blue;
     }
     
     #secao1 br {
@@ -80,7 +80,7 @@
         background-color: orange;
         border: yellow dashed 4px;
         border-radius: 50px;
-        padding: 1.5%;
+        padding: 5%;
         height: auto;
         margin-bottom: 25%;
     }
